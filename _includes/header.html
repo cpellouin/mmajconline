@@ -3,7 +3,9 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+    <a href = "http://www.apc.univ-paris7.fr/APC_CS/"><img src="{{site.url}}/img/apc.png", width =120, hspace=10/></a>
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a href = "https://www.iap.fr"><img src="{{site.url}}/img/iap.jpg", width =120, hspace=10/></a>
 
     {% if page_paths %}
       <nav class="site-nav">
