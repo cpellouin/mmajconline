@@ -9,7 +9,7 @@ The journal club was formed between groups of the [Astroparticule et Cosmology l
 
 Addresses are:
 * APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet - 2nd floor)
-* IAP: 98b boulevard Arago 75014 Paris
+* IAP: 98 bis boulevard Arago 75014 Paris
 
 ## Past sessions
 
