@@ -25,7 +25,8 @@ Addresses are:
 #### _3rd session: May 9 2019, 14h00 (at APC, room 240A)_
 
 * Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by R. Duque
-* Presentation by R. Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf).
+* Presentation by R. Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf)
+* Also, a [conference proceeding](docs/asterics2019_proc.pdf) which nicely sums up this presentation
 
 ## Future sessions
 
