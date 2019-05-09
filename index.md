@@ -22,9 +22,11 @@ Addresses are:
 * Paper: [Strotjohann et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190309648S/abstract), presented by K. Kotera
 * Presentation by V. Decoene on [High energy neutrino from neutron stars merger : Kilo-Novae emissions](docs/slides2-decoene.pdf)
 
-## Future sessions
-
 #### _3rd session: May 9 2019, 14h00 (at APC, room 240A)_
 
 * Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by R. Duque
-* Presentation by R. Duque on.
+* Presentation by R. Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf).
+
+## Future sessions
+
+#### _4th session: TBD_
