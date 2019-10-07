@@ -30,4 +30,10 @@ Addresses are:
 
 ## Future sessions
 
-#### _4th session: TBD_
+#### _4th session: October 28 2019, 14h00 (at IAP, salle des séminaires)_
+
+* Presentation by Julien Peloton (LAL, Orsay) on the "Fink" French initiative
+
+#### _5th session: November 26 2019, 14h00 (at APC, room 454A)_
+
+#### _6th session: December 17 2019, 14h00 (at IAP)_
