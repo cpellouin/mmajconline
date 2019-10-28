@@ -32,7 +32,7 @@ Addresses are:
 
 #### _4th session: October 28 2019, 14h00 (at IAP, salle des séminaires)_
 
-* Presentation by Julien Peloton (LAL, Orsay) on the "Fink" French initiative
+* Presentation by Julien Peloton (LAL, Orsay) on the ["Fink" French initiative](docs/slides4-peloton.pdf).
 
 #### _5th session: November 26 2019, 14h00 (at APC, room 454A)_
 
