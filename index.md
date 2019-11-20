@@ -28,12 +28,14 @@ Addresses are:
 * Presentation by R. Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf)
 * Also, a [conference proceeding](docs/asterics2019_proc.pdf) which nicely sums up this presentation
 
-## Future sessions
-
 #### _4th session: October 28 2019, 14h00 (at IAP, salle des séminaires)_
 
 * Presentation by Julien Peloton (LAL, Orsay) on the French "Fink" initiative: [LSST alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
 
+## Future sessions
+
 #### _5th session: November 26 2019, 14h00 (at APC, room 454A)_
+
+* Paper: [McKernan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...66M/abstract), presented by G. de Wasseige
 
 #### _6th session: December 17 2019, 14h00 (at IAP)_
