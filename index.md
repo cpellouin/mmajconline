@@ -32,10 +32,11 @@ Addresses are:
 
 * Presentation by Julien Peloton (LAL, Orsay) on the French "Fink" initiative: [LSST alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
 
-## Future sessions
 
 #### _5th session: November 26 2019, 14h00 (at APC, room 454A)_
 
-* Paper: [McKernan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...66M/abstract), presented by G. de Wasseige
+* Paper: [McKernan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...66M/abstract), presented by G. de Wasseige: [slides](docs/Journal_club_BBH_AGN.pdf).
+
+## Future sessions
 
 #### _6th session: December 17 2019, 14h00 (at IAP)_
