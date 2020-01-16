@@ -39,13 +39,13 @@ Addresses are:
 
 #### _6th session: January 16 2020, 15h30 (at IAP, salle de l'entresol)_
 
-Three papers on very high energy radiation observations in GRB190114C:
+Three papers on very-high-energy radiation observations in GRBs:
 
 * [H.E.S.S. Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..464A/abstract): A very-high-energy component deep in the gamma-ray burst afterglow.
 * [MAGIC Collaboration 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..455M/abstract): Teraelectronvolt emission from the gamma-ray burst GRB190114C.
 * [MAGIC Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..459M/abstract): Observation of inverse Compton emission from a long gamma-ray burst.
 
-These were presented by F. Daigne.
+These were presented by F. Daigne, see his [slides](docs/slides6-daigne.pdf).
 
 ## Future sessions
 
