@@ -49,4 +49,4 @@ These were presented by F. Daigne.
 
 ## Future sessions
 
-### _7th session: February 27 2020, 14h (at APC)_
+#### _7th session: February 27 2020, 14h (at APC)_
