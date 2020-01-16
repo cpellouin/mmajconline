@@ -41,7 +41,7 @@ Addresses are:
 
 Three papers on very high energy radiation observations in GRB190114C:
 
-* [MAGIC Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..464A/abstract): A very-high-energy component deep in the gamma-ray burst afterglow.
+* [H.E.S.S. Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..464A/abstract): A very-high-energy component deep in the gamma-ray burst afterglow.
 * [MAGIC Collaboration 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..455M/abstract): Teraelectronvolt emission from the gamma-ray burst GRB190114C.
 * [MAGIC Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..459M/abstract): Observation of inverse Compton emission from a long gamma-ray burst.
 
