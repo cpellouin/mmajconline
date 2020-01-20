@@ -47,6 +47,8 @@ Three papers on very-high-energy radiation observations in GRBs:
 
 These were presented by F. Daigne, see his [slides](docs/slides6-daigne.pdf).
 
+Also, a presentation by Gwenhaël on the neutrino follow-up of GRB190114C, see [her slides](docs/slides6-wasseige.pdf).
+
 ## Future sessions
 
 #### _7th session: February 27 2020, 14h (at APC)_
