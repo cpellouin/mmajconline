@@ -51,4 +51,6 @@ Also, a presentation by Gwenhaël on the neutrino follow-up of GRB190114C, see [
 
 ## Future sessions
 
-#### _7th session: February 27 2020, 14h (at APC)_
+#### _7th session: February 27 2020, 14h (at APC, room 351A)_
+
+Presentation by V. Decoene of CHIME's observations of the the FRB repeating source FRB121102 : [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract). Also, presentation of some theoretical work to understand the FRB phenomenon.
