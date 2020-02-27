@@ -15,17 +15,17 @@ Addresses are:
 
 #### _First session: March 6 2019, 14h00 (at APC, room 646A)_
 
-* Paper: [Ghirlanda et al. 2018](https://ui.adsabs.harvard.edu/abs/2019Sci...363..968G/abstract), presented by E. Chassande-Mottin.
+* Paper: [Ghirlanda et al. 2018](https://ui.adsabs.harvard.edu/abs/2019Sci...363..968G/abstract), presented by Éric Chassande-Mottin.
 
 #### _2nd session: April 5 2019, 14h00 (at IAP, salle de l'entresol)_
 
-* Paper: [Strotjohann et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190309648S/abstract), presented by K. Kotera.
-* Presentation by V. Decoene on [High energy neutrino from neutron stars merger : Kilo-Novae emissions](docs/slides2-decoene.pdf).
+* Paper: [Strotjohann et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190309648S/abstract), presented by Kumiko Kotera.
+* Presentation by Valentin Decoene on [High energy neutrinos from neutron stars merger: Kilo-Novae emissions](docs/slides2-decoene.pdf).
 
 #### _3rd session: May 9 2019, 14h00 (at APC, room 240A)_
 
-* Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by R. Duque.
-* Presentation by R. Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf).
+* Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by Raphaël Duque.
+* Presentation by Raphaël Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf).
 * Also, a [conference proceeding](docs/asterics2019_proc.pdf) which nicely sums up this presentation.
 
 #### _4th session: October 28 2019, 14h00 (at IAP, salle des séminaires)_
@@ -35,7 +35,7 @@ Addresses are:
 
 #### _5th session: November 26 2019, 14h00 (at APC, room 454A)_
 
-* Paper: [McKernan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...66M/abstract), presented by G. de Wasseige: [slides](docs/slides5-wasseige.pdf).
+* Paper: [McKernan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...66M/abstract), presented by Gwenhaël de Wasseige: [her slides](docs/slides5-wasseige.pdf).
 
 #### _6th session: January 16 2020, 15h30 (at IAP, salle de l'entresol)_
 
@@ -45,7 +45,7 @@ Three papers on very-high-energy radiation observations in GRBs:
 * [MAGIC Collaboration 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..455M/abstract): Teraelectronvolt emission from the gamma-ray burst GRB190114C.
 * [MAGIC Collaboration et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..459M/abstract): Observation of inverse Compton emission from a long gamma-ray burst.
 
-These were presented by F. Daigne, see his [slides](docs/slides6-daigne.pdf).
+These were presented by Frédéric Daigne, see [his slides](docs/slides6-daigne.pdf).
 
 Also, a presentation by Gwenhaël on the neutrino follow-up of GRB190114C, see [her slides](docs/slides6-wasseige.pdf).
 
@@ -53,4 +53,4 @@ Also, a presentation by Gwenhaël on the neutrino follow-up of GRB190114C, see [
 
 #### _7th session: February 27 2020, 14h (at APC, room 351A)_
 
-Presentation by V. Decoene of CHIME's observations of the the FRB repeating source FRB121102 : [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract). Also, presentation of some theoretical work to understand the FRB phenomenon.
+Presentation by Valentin Decoene of CHIME's observations of the repeating FRB121102: [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract). Also, presentation of some theoretical work to model the FRB phenomenon, see [his slides](docs/slides7-decoene.pdf).
