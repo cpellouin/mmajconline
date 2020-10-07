@@ -11,6 +11,10 @@ Addresses are:
 * APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet - 2nd floor)
 * IAP: 98 bis boulevard Arago 75014 Paris
 
+## Staying up to date
+
+To receive information and announcements for future sessions, please [subscribe to our mailing list](https://listserv.in2p3.fr/cgi-bin/wa?SUBED1=MM-MEETINGS-IDF-L&A=1).
+
 ## Past sessions
 
 #### _First session: March 6 2019, 14h00 (at APC, room 646A)_
@@ -49,8 +53,8 @@ These were presented by Frédéric Daigne, see [his slides](docs/slides6-daigne.
 
 Also, a presentation by Gwenhaël on the neutrino follow-up of GRB190114C, see [her slides](docs/slides6-wasseige.pdf).
 
-## Future sessions
-
 #### _7th session: February 27 2020, 14h (at APC, room 351A)_
 
 Presentation by Valentin Decoene of CHIME's observations of the repeating FRB121102: [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract). Also, presentation of some theoretical work to model the FRB phenomenon, see [his slides](docs/slides7-decoene.pdf).
+
+## Future sessions
