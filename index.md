@@ -174,8 +174,18 @@ Haystack](docs/201028-chiche.pdf).
 
 #### **December 7 2020, 14h (online)**
 
-* Paper: [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract), presented by Marta Volonteri.
+* Presentation by Marta Volonteri on [Black Hole Mergers from Dwarf to Massive Galaxies with the NewHorizon and Horizon-AGN Simulations](docs/201207-volonteri.pdf), based on [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract).
 
-#### **December 14 2020, 14 (online)**
+#### **December 14 2020, 14h (online)**
 
 * Paper: [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf).
+
+## Upcoming sessions
+
+#### **January 14 2021, 13h30 (online)**
+
+* Paper: TBD, presented by Raphaël Duque.
+
+#### **January 21 2021, 13h30 (online)**
+
+* Paper: TBD, presented by Irina Dvorkin.
