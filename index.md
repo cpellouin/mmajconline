@@ -15,6 +15,12 @@ Addresses are:
 
 To receive information and announcements for future sessions, please [subscribe to our mailing list](https://listserv.in2p3.fr/cgi-bin/wa?SUBED1=MM-MEETINGS-IDF-L&A=1).
 
+## Speakers
+
+Some of the speakers of our sessions include:
+
+*
+
 ## Journal Club sessions
 
 #### **March 6 2019, 14h00 (at APC, room 646A)**
@@ -24,17 +30,17 @@ To receive information and announcements for future sessions, please [subscribe 
 #### **April 5 2019, 14h00 (at IAP, salle de l'entresol)**
 
 * Paper: [Strotjohann et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190309648S/abstract), presented by Kumiko Kotera.
-* Presentation by Valentin Decoene on [High energy neutrinos from neutron stars merger: Kilo-Novae emissions](docs/slides2-decoene.pdf).
+* Presentation by Valentin Decoene on [High-Energy Neutrinos from Neutron Stars Mergers: Kilo-Novae Emissions](docs/slides2-decoene.pdf).
 
 #### **May 9 2019, 14h00 (at APC, room 240A)**
 
 * Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by Raphaël Duque.
-* Presentation by Raphaël Duque on [Population prospects for electromagnetic counterparts to neutron star mergers in the gravitational wave era](docs/slides3-duque.pdf).
+* Presentation by Raphaël Duque on [Population Prospects for Electromagnetic Counterparts to Neutron Star Mergers in the Gravitational-Wave Era](docs/slides3-duque.pdf).
 * Also, a [conference proceeding](https://ui.adsabs.harvard.edu/abs/2019nemm.conf...25D/abstract) which nicely sums up this presentation.
 
 #### **October 28 2019, 14h00 (at IAP, salle des séminaires)**
 
-* Presentation by Julien Peloton (LAL, Orsay) on the French "Fink" initiative: [LSST alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
+* Presentation by Julien Peloton (LAL, Orsay) on the French "Fink" initiative: [LSST Alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
 
 
 #### **November 26 2019, 14h00 (at APC, room 454A)**
@@ -55,42 +61,104 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **February 27 2020, 14h (at APC, room 351A)**
 
-Presentation by Valentin Decoene of CHIME's observations of the repeating FRB121102: [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract). Also, presentation of some [Models of the FRB phenomenon](docs/slides7-decoene.pdf).
+* Presentation by Valentin Decoene of CHIME's observations of the repeating FRB121102: [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract).
+* Also by Valentin, presentation on [Models of the FRB Phenomenon](docs/slides7-decoene.pdf).
 
-#### **April 8 2020**
+#### **April 8 2020, 13h30 (online)**
 
-#### **April 15 2020**
+* Paper: [Jerkstrand et al. 2020](https://ui.adsabs.harvard.edu/abs/2020Sci...367..415J/abstract), presented by Luc Dessart.
+* Paper: [Pang et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3740P/abstract), presented by Irina Dvorkin.
 
-#### **April 22 2020**
+#### **April 15 2020, 13h30 (online)**
 
-#### **April 29 2020**
+* Paper: [Dessart et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...638A..80D/abstract), presented by Luc Dessart.
+* Paper: [Beniamini et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2847B/abstract), presented by Robert Mochkovitch.
 
-#### **May 27 2020**
+#### **April 22 2020, 13h30 (online)**
 
-#### **June 3 2020**
+* [Gravity Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636L...5G/abstract), presented by Raphaël Duque.
+* [LIGO Scientific Collaboration, Virgo Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200408342T/abstract), presented by Irina Dvorkin.
 
-#### **June 10 2020**
+#### **April 29 2020, 13h30 (online)**
 
-#### **June 17 2020**
+* [Olejak et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..39O/abstract), presented by Jean-Pierre Lasota.
+* [Izzo et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L..11I/abstract), presented by Raphaël Duque.
 
-#### **July 1 2020**
+#### **May 13 2020, 14h (online)**
 
-#### **September 30 2020**
+* Presentation by Sébastien Guillot entitled _Measuring the Radius of Neutron Stars and Other Results from the NICER Mission_.
 
-#### **October 7 2020**
+#### **May 20 2020, 15h (online)**
 
-#### **October 21 2020**
+* Presentation by Jim Madsen entitled _Cosmic Ray Research with the IceCube Neutrino Observatory: The Other Cosmic Messengers_.
 
-#### **October 28 2020**
+#### **May 27 2020, 13h30 (online)**
 
-#### **November 4 2020**
+* [Safarzadeh et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901..137S/abstract), presented by Raphaël Duque.
+
+* [Liu et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b4028L/abstract), presented by Irina Dvorkin.
+
+#### **June 3 2020, 14h (online)**
+
+* [Soldateschi et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..44S/abstract), presented by Francois Larrouturou.
+
+* [Samuelsson et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..148S/abstract), presented by Zeljka Bosnjak.
+
+#### **June 10 2020, 14h (online)**
+
+* [Barausse et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...904...16B/abstract), presented by Irina Dvorkin.
+
+#### **June 17 2020, 14h (online)**
+
+* [Krogager et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3014K/abstract), presented by Jens-Kristian Krogager.
+
+#### **June 24 2020, 14h (online)**
+
+* Presentation by Sandro Mereghetti entitled _INTEGRAL Discovery of a Burst from a Magnetar Sheds Light on the Origin of Fast Radio Bursts_.
+
+#### **July 1 2020, 17h30 (online)**
+
+* Presentation by Noémie Globus entitled _The Chiral Puzzle of Life_.
+
+#### **September 30 2020, 12h (online)**
+
+* [LIGO Scientific Collaboration, Virgo Collaboration](https://ui.adsabs.harvard.edu/abs/2020PhRvL.125j1102A/abstract), presented by Irina Dvorkin.
+
+#### **October 7 2020, 12h (online)**
+
+* [Greggio et al. 2020](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1755G/abstract), presented by Raphaël Duque.
+
+#### **October 21 2020, 12h (online)**
+
+* Presentation by Clément Pellouin on [Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog](docs/201021-pellouin.pdf)
+
+#### **October 28 2020, 12h (online)**
+
+* Presentation by Simon Chiche on [Looking for Ultra-High-Energy Astroparticles in a Radio
+Haystack](docs/201028-chiche.pdf).
+
+#### **November 4 2020, 14h (online)**
+
+* [Matsumoto et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.1247M/abstract), presented by Frédéric Daigne.
 
 #### **November 16 2020**
 
-#### **November 23 2020**
+* [Villar et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..21V/abstract), presented by Robert Mochkovitch.
+
+#### **November 23 2020, 14h (online)**
+
+* Presentation by Om Sharan Salafia entitled _Accretion-to-Jet Energy Conversion Efficiency in Gamma-Ray Burst Central Engines_.
+Guest presentation
+30.11
 
 #### **November 30 2020**
 
+* Presentation by Matteo Bugli entitled _Outstanding Core-Collapse Supernovae: the Impact of Magnetic Fields on the Explosion and their Multi-Messenger Signatures_.
+
 #### **December 7 2020**
 
+* [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract), presented by Marta Volonteri.
+
 #### **December 14 2020**
+
+* [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf)
