@@ -19,7 +19,28 @@ To receive information and announcements for future sessions, please [subscribe 
 
 Some of the speakers of our sessions include:
 
-*
+* Matteo Bugli (CEA)
+* Éric Chassande-Mottin (APC)
+* Simon Chiche (IAP)
+* Frédéric Daigne (IAP)
+* Valentin Decoene (IAP, Perth University)
+* Luc Dessart (IAP)
+* Gwenhaël de Wasseige (APC)
+* Irina Dvorkin (IAP)
+* Raphaël Duque (IAP)
+* Noémie Globus (NY University, CCA)
+* Sébastien Guillot (IRAP)
+* Kumiko Kotera (IAP)
+* Jens-Kristian Krogager (IAP)
+* Jean-Pierre Lasota (IAP)
+* François Larrouturou (IAP)
+* Jim Madsen (University of Wisconsin)
+* Sandro Mereghetti (IASF-Milano)
+* Robert Mochkovitch (IAP)
+* Clément Pellouin (IAP)
+* Julien Peloton (LAL)
+* Om Sharan Salafia (INAF-Brera)
+* Marta Volonteri (IAP)
 
 ## Journal Club sessions
 
@@ -40,7 +61,7 @@ Some of the speakers of our sessions include:
 
 #### **October 28 2019, 14h00 (at IAP, salle des séminaires)**
 
-* Presentation by Julien Peloton (LAL, Orsay) on the French "Fink" initiative: [LSST Alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
+* Presentation by Julien Peloton (LAL) on the French "Fink" initiative: [LSST Alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
 
 
 #### **November 26 2019, 14h00 (at APC, room 454A)**
@@ -128,7 +149,7 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **October 21 2020, 12h (online)**
 
-* Presentation by Clément Pellouin on [Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog](docs/201021-pellouin.pdf)
+* Presentation by Clément Pellouin on [Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog](docs/201021-pellouin.pdf).
 
 #### **October 28 2020, 12h (online)**
 
