@@ -8,7 +8,7 @@ layout: home
 The journal club was formed between groups of the [Astroparticule et Cosmologie laboratory](http://www.apc.univ-paris7.fr/APC_CS/) (APC) and the [Institut d'Astrophysique de Paris](http://www.iap.fr) (IAP).
 
 Addresses are:
-* APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet - 2nd floor)
+* APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet -- 2nd floor)
 * IAP: 98 bis boulevard Arago 75014 Paris
 
 ## Staying up to date
@@ -76,13 +76,13 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **April 22 2020, 13h30 (online)**
 
-* [Gravity Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636L...5G/abstract), presented by Raphaël Duque.
-* [LIGO Scientific Collaboration, Virgo Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200408342T/abstract), presented by Irina Dvorkin.
+* Paper: [Gravity Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636L...5G/abstract), presented by Raphaël Duque.
+* Paper: [LIGO Scientific Collaboration, Virgo Collaboration 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200408342T/abstract), presented by Irina Dvorkin.
 
 #### **April 29 2020, 13h30 (online)**
 
-* [Olejak et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..39O/abstract), presented by Jean-Pierre Lasota.
-* [Izzo et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L..11I/abstract), presented by Raphaël Duque.
+* Paper: [Olejak et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..39O/abstract), presented by Jean-Pierre Lasota.
+* Paper: [Izzo et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L..11I/abstract), presented by Raphaël Duque.
 
 #### **May 13 2020, 14h (online)**
 
@@ -94,23 +94,21 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **May 27 2020, 13h30 (online)**
 
-* [Safarzadeh et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901..137S/abstract), presented by Raphaël Duque.
-
-* [Liu et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b4028L/abstract), presented by Irina Dvorkin.
+* Paper: [Safarzadeh et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...901..137S/abstract), presented by Raphaël Duque.
+* Paper: [Liu et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b4028L/abstract), presented by Irina Dvorkin.
 
 #### **June 3 2020, 14h (online)**
 
-* [Soldateschi et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..44S/abstract), presented by Francois Larrouturou.
-
-* [Samuelsson et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..148S/abstract), presented by Zeljka Bosnjak.
+* Paper: [Soldateschi et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..44S/abstract), presented by Francois Larrouturou.
+* Paper: [Samuelsson et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..148S/abstract), presented by Zeljka Bosnjak.
 
 #### **June 10 2020, 14h (online)**
 
-* [Barausse et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...904...16B/abstract), presented by Irina Dvorkin.
+* Paper: [Barausse et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...904...16B/abstract), presented by Irina Dvorkin.
 
 #### **June 17 2020, 14h (online)**
 
-* [Krogager et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3014K/abstract), presented by Jens-Kristian Krogager.
+* Paper: [Krogager et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3014K/abstract), presented by Jens-Kristian Krogager.
 
 #### **June 24 2020, 14h (online)**
 
@@ -122,11 +120,11 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **September 30 2020, 12h (online)**
 
-* [LIGO Scientific Collaboration, Virgo Collaboration](https://ui.adsabs.harvard.edu/abs/2020PhRvL.125j1102A/abstract), presented by Irina Dvorkin.
+* Paper: [LIGO Scientific Collaboration, Virgo Collaboration](https://ui.adsabs.harvard.edu/abs/2020PhRvL.125j1102A/abstract), presented by Irina Dvorkin.
 
 #### **October 7 2020, 12h (online)**
 
-* [Greggio et al. 2020](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1755G/abstract), presented by Raphaël Duque.
+* Paper: [Greggio et al. 2020](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1755G/abstract), presented by Raphaël Duque.
 
 #### **October 21 2020, 12h (online)**
 
@@ -139,26 +137,24 @@ Haystack](docs/201028-chiche.pdf).
 
 #### **November 4 2020, 14h (online)**
 
-* [Matsumoto et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.1247M/abstract), presented by Frédéric Daigne.
+* Paper: [Matsumoto et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.1247M/abstract), presented by Frédéric Daigne.
 
-#### **November 16 2020**
+#### **November 16 2020, 14h (online)**
 
-* [Villar et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..21V/abstract), presented by Robert Mochkovitch.
+* Paper: [Villar et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..21V/abstract), presented by Robert Mochkovitch.
 
 #### **November 23 2020, 14h (online)**
 
 * Presentation by Om Sharan Salafia entitled _Accretion-to-Jet Energy Conversion Efficiency in Gamma-Ray Burst Central Engines_.
-Guest presentation
-30.11
 
-#### **November 30 2020**
+#### **November 30 2020, 14h (online)**
 
 * Presentation by Matteo Bugli entitled _Outstanding Core-Collapse Supernovae: the Impact of Magnetic Fields on the Explosion and their Multi-Messenger Signatures_.
 
-#### **December 7 2020**
+#### **December 7 2020, 14h (online)**
 
-* [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract), presented by Marta Volonteri.
+* Paper: [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract), presented by Marta Volonteri.
 
-#### **December 14 2020**
+#### **December 14 2020, 14 (online)**
 
-* [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf)
+* Paper: [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf).
