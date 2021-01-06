@@ -23,7 +23,7 @@ Some of the speakers of our sessions include:
 * Éric Chassande-Mottin (APC)
 * Simon Chiche (IAP)
 * Frédéric Daigne (IAP)
-* Valentin Decoene (IAP, Perth University)
+* Valentin Decoene (IAP, Curtin University)
 * Luc Dessart (IAP)
 * Gwenhaël de Wasseige (APC)
 * Irina Dvorkin (IAP)
@@ -162,7 +162,7 @@ Haystack](docs/201028-chiche.pdf).
 
 #### **November 16 2020, 14h (online)**
 
-* Paper: [Villar et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..21V/abstract), presented by Robert Mochkovitch.
+* Paper: [Villar et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..21V/abstract), presented by Robert Mochkovitch. See [his slides](docs/201116-mochkovitch.pdf).
 
 #### **November 23 2020, 14h (online)**
 
