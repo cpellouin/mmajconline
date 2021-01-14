@@ -21,6 +21,7 @@ Some of the speakers of our sessions include:
 
 * Matteo Bugli (CEA)
 * Éric Chassande-Mottin (APC)
+* Siyuan Chen (LPC2E, Orléans)
 * Simon Chiche (IAP)
 * Frédéric Daigne (IAP)
 * Valentin Decoene (IAP, Curtin University)
@@ -180,12 +181,18 @@ Haystack](docs/201028-chiche.pdf).
 
 * Paper: [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf).
 
-## Upcoming sessions
+
 
 #### **January 14 2021, 13h30 (online)**
 
-* Paper: TBD, presented by Raphaël Duque.
+* Paper: [Gill et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...876..139G/abstract), presented by Raphaël Duque.
+
+## Upcoming sessions
 
 #### **January 21 2021, 13h30 (online)**
 
 * Paper: TBD, presented by Irina Dvorkin.
+
+#### **February 11 2021, 13h30 (online)**
+
+* Presentation by Siyuan Chen, title TBD.
