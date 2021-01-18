@@ -181,8 +181,6 @@ Haystack](docs/201028-chiche.pdf).
 
 * Paper: [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3511G/abstract), presented by Clément Pellouin. See [his slides](docs/201214-pellouin.pdf).
 
-
-
 #### **January 14 2021, 13h30 (online)**
 
 * Paper: [Gill et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...876..139G/abstract), presented by Raphaël Duque.
@@ -191,7 +189,7 @@ Haystack](docs/201028-chiche.pdf).
 
 #### **January 21 2021, 13h30 (online)**
 
-* Paper: TBD, presented by Irina Dvorkin.
+* Paper: [Bonetti et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102j3023B/abstract), presented by Irina Dvorkin.
 
 #### **February 11 2021, 13h30 (online)**
 
