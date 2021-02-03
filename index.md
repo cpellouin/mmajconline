@@ -41,6 +41,7 @@ Some of the speakers of our sessions include:
 * Mike Moss (George Washington University)
 * Clément Pellouin (IAP)
 * Julien Peloton (LAL)
+* Cyril Pitrou (IAP)
 * Om Sharan Salafia (INAF-Brera)
 * Marta Volonteri (IAP)
 
@@ -199,3 +200,11 @@ Haystack](docs/201028-chiche.pdf).
 #### **February 18 2021, 13h30 (online)**
 
 * Presentation by Mike Moss, title TBD.
+
+#### **March 04 2021, 13h30 (online)**
+
+* Presentation by Cyril Pitrou, title TBD.
+
+#### **March 18 2021, 13h30 (online)**
+
+* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
