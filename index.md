@@ -49,7 +49,7 @@ Some of the speakers of our sessions include:
 
 #### **February 11 2021, 13h30 (online)**
 
-* Presentation by Siyuan Chen, title TBD.
+* Presentation by Siyuan Chen, entitled "From pulsars to supermassive black holes and gravitational waves in between".
 
 #### **February 18 2021, 13h30 (online)**
 
