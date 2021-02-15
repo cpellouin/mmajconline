@@ -44,16 +44,17 @@ Some of the speakers of our sessions include:
 * Cyril Pitrou (IAP)
 * Om Sharan Salafia (INAF-Brera)
 * Marta Volonteri (IAP)
+* Željka Bošnjak (University of Zagreb)
 
 ## Upcoming Journal Club sessions
 
-#### **February 11 2021, 13h30 (online)**
-
-* Presentation by Siyuan Chen, entitled "From pulsars to supermassive black holes and gravitational waves in between".
-
 #### **February 18 2021, 13h30 (online)**
 
-* Presentation by Mike Moss, title TBD.
+* Presentation by Mike Moss, entitled "Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT".
+
+#### **February 25 2021, 13h30 (online)**
+
+* Paper: TBD, presented by Clément Pellouin.
 
 #### **March 04 2021, 13h30 (online)**
 
@@ -62,6 +63,11 @@ Some of the speakers of our sessions include:
 #### **March 18 2021, 13h30 (online)**
 
 * Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
+
+#### **March 25 2021, 13h30 (online)**
+
+* Paper: TBD, presented by Željka Bošnjak.
+
 
 ## Past sessions
 
@@ -209,3 +215,6 @@ Haystack](docs/201028-chiche.pdf).
 
 * Paper: [Bonetti et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102j3023B/abstract), presented by Irina Dvorkin.
 
+#### **February 11 2021, 13h30 (online)**
+
+* Presentation by Siyuan Chen, entitled "From pulsars to supermassive black holes and gravitational waves in between".
