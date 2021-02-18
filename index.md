@@ -48,13 +48,9 @@ Some of the speakers of our sessions include:
 
 ## Upcoming Journal Club sessions
 
-#### **February 18 2021, 13h30 (online)**
-
-* Presentation by Mike Moss, entitled "Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT".
-
 #### **February 25 2021, 13h30 (online)**
 
-* Paper: TBD, presented by Clément Pellouin.
+* Paper: [Beniamini et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4847B/abstract), presented by Clément Pellouin.
 
 #### **March 04 2021, 13h30 (online)**
 
@@ -67,7 +63,6 @@ Some of the speakers of our sessions include:
 #### **March 25 2021, 13h30 (online)**
 
 * Paper: TBD, presented by Željka Bošnjak.
-
 
 ## Past sessions
 
@@ -218,3 +213,7 @@ Haystack](docs/201028-chiche.pdf).
 #### **February 11 2021, 13h30 (online)**
 
 * Presentation by Siyuan Chen, entitled "From pulsars to supermassive black holes and gravitational waves in between".
+
+#### **February 18 2021, 13h30 (online)**
+
+* Presentation by Mike Moss, entitled [Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT](docs/210218-moss.pdf).
