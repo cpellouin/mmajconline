@@ -48,13 +48,9 @@ Some of the speakers of our sessions include:
 
 ## Upcoming Journal Club sessions
 
-#### **February 25 2021, 13h30 (online)**
-
-* Paper: [Beniamini et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4847B/abstract), presented by Clément Pellouin.
-
 #### **March 04 2021, 13h30 (online)**
 
-* Presentation by Cyril Pitrou, title TBD.
+* Presentation by Cyril Pitrou, entitled "Precision Big Bang Nucleosynthesis and the Status of Deuterium".
 
 #### **March 18 2021, 13h30 (online)**
 
@@ -217,3 +213,9 @@ Haystack](docs/201028-chiche.pdf).
 #### **February 18 2021, 13h30 (online)**
 
 * Presentation by Mike Moss, entitled [Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT](docs/210218-moss.pdf).
+
+#### **February 25 2021, 13h30 (online)**
+
+* Paper: [Beniamini et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4847B/abstract), presented by Clément Pellouin.
+
+
