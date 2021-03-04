@@ -15,6 +15,17 @@ Addresses are:
 
 To receive information and announcements for future sessions, please [subscribe to our mailing list](https://listserv.in2p3.fr/cgi-bin/wa?SUBED1=MM-MEETINGS-IDF-L&A=1).
 
+## Organizing team
+
+* Éric Chassande-Mottin
+* Alexis Coleiro
+* Frédéric Daigne
+* Raphaël Duque
+* Irina Dvorkin
+* Clément Pellouin
+
+If you are willing to participate in our weekly journal-club sessions, do not hesitate to reach out to us.
+
 ## Speakers
 
 Some of the speakers of our sessions include:
