@@ -59,10 +59,6 @@ Some of the speakers of our sessions include:
 
 ## Upcoming Journal Club sessions
 
-#### **March 04 2021, 13h30 (online)**
-
-* Presentation by Cyril Pitrou, entitled "Precision Big Bang Nucleosynthesis and the Status of Deuterium".
-
 #### **March 18 2021, 13h30 (online)**
 
 * Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
@@ -229,4 +225,6 @@ Haystack](docs/201028-chiche.pdf).
 
 * Paper: [Beniamini et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4847B/abstract), presented by Clément Pellouin.
 
+#### **March 04 2021, 13h30 (online)**
 
+* Presentation by Cyril Pitrou, entitled "Precision Big Bang Nucleosynthesis and the Status of Deuterium".
