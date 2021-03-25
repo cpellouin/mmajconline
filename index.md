@@ -49,6 +49,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 Some of the speakers of our sessions include:
 
 * Matteo Bugli (CEA)
+* Željka Bošnjak (University of Zagreb)
 * Éric Chassande-Mottin (APC)
 * Siyuan Chen (LPC2E, Orléans)
 * Simon Chiche (IAP)
@@ -73,7 +74,6 @@ Some of the speakers of our sessions include:
 * Cyril Pitrou (IAP)
 * Om Sharan Salafia (INAF-Brera)
 * Marta Volonteri (IAP)
-* Željka Bošnjak (University of Zagreb)
 
 ## Past sessions
 
