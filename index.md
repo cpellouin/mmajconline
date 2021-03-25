@@ -20,7 +20,6 @@ To receive information and announcements for future sessions, please [subscribe 
 * Éric Chassande-Mottin
 * Alexis Coleiro
 * Frédéric Daigne
-* Raphaël Duque
 * Irina Dvorkin
 * Clément Pellouin
 
@@ -59,13 +58,9 @@ Some of the speakers of our sessions include:
 
 ## Upcoming Journal Club sessions
 
-#### **March 18 2021, 13h30 (online)**
+#### **March 30 & April 1, 2021, 9h00 (online)**
 
-* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
-
-#### **March 25 2021, 13h30 (online)**
-
-* Paper: TBD, presented by Željka Bošnjak.
+* [Fourth assembly of the Groupement de Recherche "Ondes Gravitationnelles"](https://indico.math.cnrs.fr/event/5766/overview).
 
 ## Past sessions
 
@@ -228,3 +223,11 @@ Haystack](docs/201028-chiche.pdf).
 #### **March 04 2021, 13h30 (online)**
 
 * Presentation by Cyril Pitrou, entitled "Precision Big Bang Nucleosynthesis and the Status of Deuterium".
+
+#### **March 18 2021, 13h30 (online)**
+
+* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
+
+#### **March 25 2021, 13h30 (online)**
+
+* Paper: [Gill et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1356G/abstract), presented by Željka Bošnjak.
