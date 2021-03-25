@@ -62,6 +62,14 @@ Some of the speakers of our sessions include:
 
 * [Fourth assembly of the Groupement de Recherche "Ondes Gravitationnelles"](https://indico.math.cnrs.fr/event/5766/overview).
 
+#### **April 8, 2021, 13h30 (online)**
+
+* Presentation by Luc Dessart (TBA).
+
+#### **April 15, 2021, 13h30 (online)**
+
+* Presentation by Kumiko Kotera, entitled "[Estimating the carbon footprint of the GRAND Project, a multi-decade astrophysics experiment](https://arxiv.org/abs/2101.02049)".
+
 ## Past sessions
 
 #### **March 6 2019, 14h00 (at APC, room 646A)**
