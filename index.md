@@ -79,12 +79,11 @@ Some of the speakers of our sessions include:
 
 #### **March 25 2021, 13h30 (online)**
 
-* Paper: [Gill et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1356G/abstract), presented by Željka Bošnjak.
+* Paper: [Gill et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1356G/abstract), presented by Željka Bošnjak. See [her slides](docs/210325-bosnjak.pdf).
 
 #### **March 18 2021, 13h30 (online)**
 
-* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri. See [her slides](docs/210325-bosnjak.pdf).
-
+* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
 #### **March 04 2021, 13h30 (online)**
 
 * Presentation by Cyril Pitrou, entitled _Precision Big Bang Nucleosynthesis and the Status of Deuterium_.
