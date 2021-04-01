@@ -83,7 +83,7 @@ Some of the speakers of our sessions include:
 
 #### **March 18 2021, 13h30 (online)**
 
-* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
+* Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri. See [her slides](docs/210325-bosnjak.pdf).
 
 #### **March 04 2021, 13h30 (online)**
 
