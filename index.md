@@ -27,10 +27,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **April 8, 2021, 13h30 (online)**
-
-* Presentation by Luc Dessart, entitled _Radiative-transfer modeling of Type II supernovae in the nebular-phase_.
-
 #### **April 15, 2021, 13h30 (online)**
 
 * Presentation by Kumiko Kotera, entitled "[Estimating the carbon footprint of the GRAND Project, a multi-decade astrophysics experiment](https://arxiv.org/abs/2101.02049)".
@@ -72,6 +68,10 @@ Some of the speakers of our sessions include:
 * Marta Volonteri (IAP)
 
 ## Past sessions
+
+#### **April 8, 2021, 13h30 (online)**
+
+* Presentation by Luc Dessart, entitled _Radiative-transfer modeling of Type II supernovae in the nebular-phase_.
 
 #### **March 25 2021, 13h30 (online)**
 
