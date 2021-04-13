@@ -35,6 +35,22 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 * Presentation by Ben Gompertz (Warwick U), TBA.
 
+#### **April 29, 2021, 13h30 (online)**
+
+* Paper presentation, TBA.
+
+#### **May 6, 2021, 13h30 (online)**
+
+* Paper: [Hajela et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210402070H/abstract), presented by Frédéric Daigne.
+
+#### **May 20, 2021, 13h30 (online)**
+
+* Paper presentation, TBA.
+
+#### **May 27, 2021, 13h30 (online)**
+
+* Presentation by Ore Gottlieb (Tel Aviv University), TBA.
+
 
 ## Speakers
 
@@ -80,6 +96,7 @@ Some of the speakers of our sessions include:
 #### **March 18 2021, 13h30 (online)**
 
 * Paper: [Yuan et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210105788Y/abstract), presented by Marta Volonteri.
+
 #### **March 04 2021, 13h30 (online)**
 
 * Presentation by Cyril Pitrou, entitled _Precision Big Bang Nucleosynthesis and the Status of Deuterium_.
