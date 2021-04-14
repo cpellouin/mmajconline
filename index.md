@@ -37,7 +37,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **April 29, 2021, 13h30 (online)**
 
-* Paper presentation, TBA.
+* Paper: TBA, presented by Robert Mochkovitch.
 
 #### **May 6, 2021, 13h30 (online)**
 
