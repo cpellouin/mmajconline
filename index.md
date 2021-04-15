@@ -33,7 +33,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **April 22, 2021, 13h30 (online)**
 
-* Presentation by Ben Gompertz (Warwick U), TBA.
+* Presentation by Ben Gompertz (Birmingham University), entitled _Compact object mergers as probes of the origins of heavy elements_.
 
 #### **April 29, 2021, 13h30 (online)**
 
