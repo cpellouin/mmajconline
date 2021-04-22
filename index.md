@@ -60,6 +60,7 @@ Some of the speakers of our sessions include:
 * Irina Dvorkin (IAP)
 * Raphaël Duque (IAP)
 * Noémie Globus (NY University, CCA)
+* Ben Gompertz (Birmingham University)
 * Sébastien Guillot (IRAP)
 * Kumiko Kotera (IAP)
 * Jens-Kristian Krogager (IAP)
