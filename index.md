@@ -29,7 +29,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **April 29, 2021, 13h30 (online)**
 
-* Paper: TBA, presented by Robert Mochkovitch.
+* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch.
 
 #### **May 6, 2021, 13h30 (online)**
 
@@ -37,7 +37,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **May 20, 2021, 13h30 (online)**
 
-* Paper presentation, TBA.
+* Presentation by Michel Dennefeld, TBA.
 
 #### **May 27, 2021, 13h30 (online)**
 
