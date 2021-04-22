@@ -83,7 +83,7 @@ Some of the speakers of our sessions include:
 
 #### **April 15, 2021, 13h30 (online)**
 
-* Presentation by Kumiko Kotera, entitled "[Estimating the carbon footprint of the GRAND Project, a multi-decade astrophysics experiment](https://arxiv.org/abs/2101.02049)".
+* Presentation by Kumiko Kotera, entitled [_Estimating the carbon footprint of the GRAND Project, a multi-decade astrophysics experiment_](https://arxiv.org/abs/2101.02049).
 
 #### **April 8, 2021, 13h30 (online)**
 
