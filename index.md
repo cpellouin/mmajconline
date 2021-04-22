@@ -107,7 +107,7 @@ Some of the speakers of our sessions include:
 
 #### **February 18 2021, 13h30 (online)**
 
-* Presentation by Mike Moss, entitled [Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT](docs/210218-moss.pdf).
+* Presentation by Mike Moss, entitled [_Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT_](docs/210218-moss.pdf).
 
 #### **February 11 2021, 13h30 (online)**
 
@@ -127,7 +127,7 @@ Some of the speakers of our sessions include:
 
 #### **December 7 2020, 14h (online)**
 
-* Presentation by Marta Volonteri on [Black Hole Mergers from Dwarf to Massive Galaxies with the NewHorizon and Horizon-AGN Simulations](docs/201207-volonteri.pdf), based on [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract).
+* Presentation by Marta Volonteri on [_Black Hole Mergers from Dwarf to Massive Galaxies with the NewHorizon and Horizon-AGN Simulations_](docs/201207-volonteri.pdf), based on [Volonteri et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2219V/abstract).
 
 #### **November 30 2020, 14h (online)**
 
@@ -147,11 +147,11 @@ Some of the speakers of our sessions include:
 
 #### **October 28 2020, 12h (online)**
 
-* Presentation by Simon Chiche on [Looking for Ultra-High-Energy Astroparticles in a Radio Haystack](docs/201028-chiche.pdf).
+* Presentation by Simon Chiche on [_Looking for Ultra-High-Energy Astroparticles in a Radio Haystack_](docs/201028-chiche.pdf).
 
 #### **October 21 2020, 12h (online)**
 
-* Presentation by Clément Pellouin on [Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog](docs/201021-pellouin.pdf).
+* Presentation by Clément Pellouin on [_Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog_](docs/201021-pellouin.pdf).
 
 #### **October 7 2020, 12h (online)**
 
@@ -218,7 +218,7 @@ Some of the speakers of our sessions include:
 #### **February 27 2020, 14h (at APC, room 351A)**
 
 * Presentation by Valentin Decoene of CHIME's observations of the repeating FRB121102: [Josephy et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..18J/abstract).
-* Also by Valentin, presentation on [Models of the FRB Phenomenon](docs/slides7-decoene.pdf).
+* Also by Valentin, presentation on [_Models of the FRB Phenomenon_](docs/slides7-decoene.pdf).
 
 #### **January 16 2020, 15h30 (at IAP, salle de l'entresol)**
 
@@ -238,18 +238,18 @@ Also, a presentation by Gwenhaël de Wasseige on [The Neutrino Follow-up of GRB1
 
 #### **October 28 2019, 14h00 (at IAP, salle des séminaires)**
 
-* Presentation by Julien Peloton (LAL) on the French "Fink" initiative: [LSST Alerts: Who, What, When, Where & Why](docs/slides4-peloton.pdf).
+* Presentation by Julien Peloton (LAL) on the French "Fink" initiative: [_LSST Alerts: Who, What, When, Where & Why_](docs/slides4-peloton.pdf).
 
 #### **May 9 2019, 14h00 (at APC, room 240A)**
 
 * Paper: [Barbieri et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190304543B/abstract), presented by Raphaël Duque.
-* Presentation by Raphaël Duque on [Population Prospects for Electromagnetic Counterparts to Neutron Star Mergers in the Gravitational-Wave Era](docs/slides3-duque.pdf).
+* Presentation by Raphaël Duque on [_Population Prospects for Electromagnetic Counterparts to Neutron Star Mergers in the Gravitational-Wave Era_](docs/slides3-duque.pdf).
 * Also, a [conference proceeding](https://ui.adsabs.harvard.edu/abs/2019nemm.conf...25D/abstract) which nicely sums up this presentation.
 
 #### **April 5 2019, 14h00 (at IAP, salle de l'entresol)**
 
 * Paper: [Strotjohann et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190309648S/abstract), presented by Kumiko Kotera.
-* Presentation by Valentin Decoene on [High-Energy Neutrinos from Neutron Stars Mergers: Kilo-Novae Emissions](docs/slides2-decoene.pdf).
+* Presentation by Valentin Decoene on [_High-Energy Neutrinos from Neutron Stars Mergers: Kilo-Novae Emissions_](docs/slides2-decoene.pdf).
 
 #### **March 6 2019, 14h00 (at APC, room 646A)**
 
