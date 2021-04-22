@@ -27,10 +27,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **April 22, 2021, 13h30 (online)**
-
-* Presentation by Ben Gompertz (Birmingham University), entitled _Compact object mergers as probes of the origins of heavy elements_.
-
 #### **April 29, 2021, 13h30 (online)**
 
 * Paper: TBA, presented by Robert Mochkovitch.
@@ -58,7 +54,7 @@ Some of the speakers of our sessions include:
 * Siyuan Chen (LPC2E, Orléans)
 * Simon Chiche (IAP)
 * Frédéric Daigne (IAP)
-* Valentin Decoene (IAP, Curtin University)
+* Valentin Decoene (IAP, Penn State University)
 * Luc Dessart (IAP)
 * Gwenhaël de Wasseige (APC)
 * Irina Dvorkin (IAP)
@@ -80,6 +76,10 @@ Some of the speakers of our sessions include:
 * Marta Volonteri (IAP)
 
 ## Past sessions
+
+#### **April 22, 2021, 13h30 (online)**
+
+* Presentation by Ben Gompertz (Birmingham University), entitled _Compact object mergers as probes of the origins of heavy elements_.
 
 #### **April 15, 2021, 13h30 (online)**
 
