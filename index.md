@@ -79,7 +79,7 @@ Some of the speakers of our sessions include:
 
 #### **April 22, 2021, 13h30 (online)**
 
-* Presentation by Ben Gompertz (Birmingham University), entitled _Compact object mergers as probes of the origins of heavy elements_.
+* Presentation by Ben Gompertz (Birmingham University), entitled [_Compact object mergers as probes of the origins of heavy elements_](docs/210422-gompertz.pdf).
 
 #### **April 15, 2021, 13h30 (online)**
 
