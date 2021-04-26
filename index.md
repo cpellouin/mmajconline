@@ -43,6 +43,10 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 * Presentation by Ore Gottlieb (Tel Aviv University), TBA.
 
+#### **June 24, 2021, 13h30 (online)**
+
+* Presentation by Filippo Santoliquido (Padova University), TBA.
+
 
 ## Speakers
 
