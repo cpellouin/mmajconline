@@ -27,10 +27,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **April 29, 2021, 13h30 (online)**
-
-* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch.
-
 #### **May 6, 2021, 13h30 (online)**
 
 * Paper: [Hajela et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210402070H/abstract), presented by Frédéric Daigne.
@@ -81,6 +77,10 @@ Some of the speakers of our sessions include:
 * Marta Volonteri (IAP)
 
 ## Past sessions
+
+#### **April 29, 2021, 13h30 (online)**
+
+* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch.
 
 #### **April 22, 2021, 13h30 (online)**
 
