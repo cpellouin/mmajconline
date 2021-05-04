@@ -33,7 +33,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **May 20, 2021, 13h30 (online)**
 
-* Presentation by Michel Dennefeld, TBA.
+* Paper: [Mishra et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210308707M/abstract), followed by a presentation on quasars by Michel Dennefeld.
 
 #### **May 27, 2021, 13h30 (online)**
 
@@ -80,7 +80,7 @@ Some of the speakers of our sessions include:
 
 #### **April 29, 2021, 13h30 (online)**
 
-* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch.
+* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch. See [his slides](docs/210429-mochkovitch.pdf).
 
 #### **April 22, 2021, 13h30 (online)**
 
