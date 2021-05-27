@@ -28,13 +28,19 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **May 27, 2021, 13h30 (online)**
+#### **June 3, 2021, 13h30 (online)**
 
-* Presentation by Ore Gottlieb (Tel Aviv University), entitled _The role of jet-cocoon mixing, magnetization and shock breakout in neutrino and cosmic-ray emission from short GRBs_.
+* Paper presentation by Clément Pellouin, TBA.
+
+#### **June 10, 2021, 13h30 (online)**
+
+* Paper presentation by Irina Dvorkin, TBA.
 
 #### **June 24, 2021, 13h30 (online)**
 
 * Presentation by Filippo Santoliquido (Padova University), TBA.
+
+#### The Journal Club activities will be on hold in July and August for summer vacation.
 
 
 ## Speakers
@@ -55,6 +61,7 @@ Some of the speakers of our sessions include:
 * Raphaël Duque (IAP)
 * Noémie Globus (NY University, CCA)
 * Ben Gompertz (Birmingham University)
+* Ore Gottlieb (Tel Aviv University)
 * Sébastien Guillot (IRAP)
 * Kumiko Kotera (IAP)
 * Jens-Kristian Krogager (IAP)
@@ -72,13 +79,18 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **May 27, 2021, 13h30 (online)**
+
+* Presentation by Ore Gottlieb (Tel Aviv University), entitled _The role of jet-cocoon mixing, magnetization and shock breakout in neutrino and cosmic-ray emission from short GRBs_.
+
 #### **May 20, 2021, 13h30 (online)**
 
 * Paper: [Mishra et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210308707M/abstract), followed by a presentation on quasars by Michel Dennefeld.
 
 #### **May 6, 2021, 13h30 (online)**
 
-* Paper: [Hajela et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210402070H/abstract), presented by Frédéric Daigne.
+* Paper: [Hajela et al. 2021](docs/210506-paper-annotated.pdf), presented by Frédéric Daigne. See [his slides](docs/210506-daigne.pdf)
 
 #### **April 29, 2021, 13h30 (online)**
 
