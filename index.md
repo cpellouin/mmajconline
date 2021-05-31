@@ -30,7 +30,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **June 3, 2021, 13h30 (online)**
 
-* Paper presentation by Clément Pellouin, TBA.
+* Paper: [Roulet et al. 2021](https://arxiv.org/abs/2105.10580), presented by Clément Pellouin.
 
 #### **June 10, 2021, 13h30 (online)**
 
