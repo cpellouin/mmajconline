@@ -28,10 +28,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **June 3, 2021, 13h30 (online)**
-
-* Paper: [Roulet et al. 2021](https://arxiv.org/abs/2105.10580), presented by Clément Pellouin.
-
 #### **June 10, 2021, 13h30 (online)**
 
 * Paper presentation by Irina Dvorkin, TBA.
@@ -79,6 +75,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **June 3, 2021, 13h30 (online)**
+
+* Paper: [Roulet et al. 2021](https://arxiv.org/abs/2105.10580), presented by Clément Pellouin. See [his slides](docs/210603-pellouin.pdf)
 
 #### **May 27, 2021, 13h30 (online)**
 
