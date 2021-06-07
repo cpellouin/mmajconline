@@ -30,7 +30,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **June 10, 2021, 13h30 (online)**
 
-* Paper: [The LVC Collaboration, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210112130T/abstract), presented by Irina Dvorkin.
+* Paper: [The LVK Collaboration 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210112130T/abstract), presented by Irina Dvorkin.
 
 #### **June 24, 2021, 13h30 (online)**
 
