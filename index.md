@@ -28,13 +28,17 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **June 10, 2021, 13h30 (online)**
+#### **June 17, 2021, 13h30 (online)**
 
-* Paper: [The LVK Collaboration 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210112130T/abstract), presented by Irina Dvorkin.
+* Paper presentation by Frédéric Daigne, TBA.
 
 #### **June 24, 2021, 13h30 (online)**
 
 * Presentation by Filippo Santoliquido (Padova University), TBA.
+
+#### **July 1, 2021, 13h30 (online)**
+
+* Presentation by Martin Lemoine, TBA.
 
 #### The Journal Club activities will be on hold in July and August for summer vacation.
 
@@ -75,6 +79,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **June 10, 2021, 13h30 (online)**
+
+* Paper: [The LVK Collaboration 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210112130T/abstract), presented by Irina Dvorkin.
 
 #### **June 3, 2021, 13h30 (online)**
 
