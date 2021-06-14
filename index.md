@@ -30,7 +30,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **June 17, 2021, 13h30 (online)**
 
-* Paper presentation by Frédéric Daigne, TBA.
+* Paper: [HESS Collaboration, 2021](https://arxiv.org/abs/2106.02510), presented by Frédéric Daigne.
 
 #### **June 24, 2021, 13h30 (online)**
 
@@ -39,6 +39,11 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 #### **July 1, 2021, 13h30 (online)**
 
 * Presentation by Martin Lemoine, TBA.
+
+#### **July 8, 2021, 13h30 (online)**
+
+* Presentation by Srija Chakraborty, TBA.
+
 
 #### The Journal Club activities will be on hold in July and August for summer vacation.
 
