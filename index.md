@@ -28,13 +28,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **June 17, 2021, 13h30 (online)**
-
-* Paper: [HESS Collaboration, 2021](https://arxiv.org/abs/2106.02510), presented by Frédéric Daigne.
-
 #### **June 24, 2021, 13h30 (online)**
 
-* Presentation by Filippo Santoliquido (Padova University), TBA.
+* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_.
 
 #### **July 1, 2021, 13h30 (online)**
 
@@ -84,6 +80,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **June 17, 2021, 13h30 (online)**
+
+* Paper: [HESS Collaboration, 2021](https://arxiv.org/abs/2106.02510), presented by Frédéric Daigne.
 
 #### **June 10, 2021, 13h30 (online)**
 
