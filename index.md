@@ -80,7 +80,7 @@ Some of the speakers of our sessions include:
 
 #### **June 24, 2021, 13h30 (online)**
 
-* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_. See [his slides](docs/210624-santoliquido.pdf)
+* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_. See [his slides](docs/210624-santoliquido.pdf).
 
 #### **June 17, 2021, 13h30 (online)**
 
@@ -92,7 +92,7 @@ Some of the speakers of our sessions include:
 
 #### **June 3, 2021, 13h30 (online)**
 
-* Paper: [Roulet et al. 2021](https://arxiv.org/abs/2105.10580), presented by Clément Pellouin. See [his slides](docs/210603-pellouin.pdf)
+* Paper: [Roulet et al. 2021](https://arxiv.org/abs/2105.10580), presented by Clément Pellouin. See [his slides](docs/210603-pellouin.pdf).
 
 #### **May 27, 2021, 13h30 (online)**
 
@@ -104,7 +104,7 @@ Some of the speakers of our sessions include:
 
 #### **May 6, 2021, 13h30 (online)**
 
-* Paper: [Hajela et al. 2021](docs/210506-paper-annotated.pdf), presented by Frédéric Daigne. See [his slides](docs/210506-daigne.pdf)
+* Paper: [Hajela et al. 2021](docs/210506-paper-annotated.pdf), presented by Frédéric Daigne. See [his slides](docs/210506-daigne.pdf).
 
 #### **April 29, 2021, 13h30 (online)**
 
