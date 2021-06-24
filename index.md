@@ -28,10 +28,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **June 24, 2021, 13h30 (online)**
-
-* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_.
-
 #### **July 1, 2021, 13h30 (online)**
 
 * Presentation by Martin Lemoine, TBA.
@@ -76,10 +72,15 @@ Some of the speakers of our sessions include:
 * Julien Peloton (LAL)
 * Cyril Pitrou (IAP)
 * Om Sharan Salafia (INAF-Brera)
+* Filippo Santoliquido (Padova University)
 * Marta Volonteri (IAP)
 
 ## Past sessions
 
+
+#### **June 24, 2021, 13h30 (online)**
+
+* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_. See [his slides](docs/210624-santoliquido.pdf)
 
 #### **June 17, 2021, 13h30 (online)**
 
@@ -107,7 +108,7 @@ Some of the speakers of our sessions include:
 
 #### **April 29, 2021, 13h30 (online)**
 
-* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch. See [his slides](docs/210429-mochkovitch.pdf).
+* Paper: [Adams et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...778..164A/abstract), presented by Robert Mochkovitch. See [his slides](docs/J210429-mochkovitch.pdf).
 
 #### **April 22, 2021, 13h30 (online)**
 
