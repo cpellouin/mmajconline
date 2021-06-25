@@ -30,7 +30,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **July 1, 2021, 13h30 (online)**
 
-* Presentation by Martin Lemoine, TBA.
+* Presentation by Martin Lemoine, entitled _Recent developments on particle acceleration in magnetized turbulence_.
 
 #### **July 8, 2021, 13h30 (online)**
 
