@@ -27,15 +27,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-
-#### **July 1, 2021, 13h30 (online)**
-
-* Presentation by Martin Lemoine, entitled _Recent developments on particle acceleration in magnetized turbulence_.
-
 #### **July 8, 2021, 13h30 (online)**
 
-* Presentation by Srija Chakraborty, TBA.
-
+* Presentation by Srija Chakraborty, entitled _Probing supermassive blackhole with LISA (and possibility of EM counterpart observations)_.
 
 #### The Journal Club activities will be on hold in July and August for summer vacation.
 
@@ -64,6 +58,7 @@ Some of the speakers of our sessions include:
 * Jens-Kristian Krogager (IAP)
 * Jean-Pierre Lasota (IAP)
 * François Larrouturou (IAP)
+* Martin Lemoine (IAP)
 * Jim Madsen (University of Wisconsin)
 * Sandro Mereghetti (IASF-Milano)
 * Robert Mochkovitch (IAP)
@@ -77,6 +72,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **July 1, 2021, 13h30 (online)**
+
+* Presentation by Martin Lemoine, entitled _Recent developments on particle acceleration in magnetized turbulence_.
 
 #### **June 24, 2021, 13h30 (online)**
 
