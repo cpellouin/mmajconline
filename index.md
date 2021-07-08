@@ -38,6 +38,7 @@ Some of the speakers of our sessions include:
 * Željka Bošnjak (University of Zagreb)
 * Matteo Bugli (CEA)
 * Éric Chassande-Mottin (APC)
+* Srija Chakraborty (Scuole Normale Superiore)
 * Siyuan Chen (LPC2E, Orléans)
 * Simon Chiche (IAP)
 * Frédéric Daigne (IAP)
@@ -73,7 +74,7 @@ Some of the speakers of our sessions include:
 
 #### **July 8, 2021, 13h30 (online)**
 
-* Presentation by Srija Chakraborty, entitled _Probing supermassive black holes with LISA (and the possibility of EM counterpart observations)_.
+* Presentation by Srija Chakraborty (Scuole Normale Superiore), entitled _Probing supermassive black holes with LISA (and the possibility of EM counterpart observations)_.
 
 #### **July 1, 2021, 13h30 (online)**
 
