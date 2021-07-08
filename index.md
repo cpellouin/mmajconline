@@ -142,11 +142,11 @@ Some of the speakers of our sessions include:
 
 #### **February 18, 2021, 13h30 (online)**
 
-* Presentation by Mike Moss, entitled [_Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT_](docs/210218-moss.pdf).
+* Presentation by Mike Moss (George Washington University), entitled [_Uncertainties and Underestimations of GRB Prompt Emission Duration with Swift/BAT_](docs/210218-moss.pdf).
 
 #### **February 11, 2021, 13h30 (online)**
 
-* Presentation by Siyuan Chen, entitled _From pulsars to supermassive black holes and gravitational waves in between_.
+* Presentation by Siyuan Chen (LPC2E, Orléans), entitled _From pulsars to supermassive black holes and gravitational waves in between_.
 
 #### **January 21, 2021, 13h30 (online)**
 
@@ -166,11 +166,11 @@ Some of the speakers of our sessions include:
 
 #### **November 30, 2020, 14h (online)**
 
-* Presentation by Matteo Bugli entitled _Outstanding Core-Collapse Supernovae: the Impact of Magnetic Fields on the Explosion and their Multi-Messenger Signatures_.
+* Presentation by Matteo Bugli (CEA), entitled _Outstanding Core-Collapse Supernovae: the Impact of Magnetic Fields on the Explosion and their Multi-Messenger Signatures_.
 
 #### **November 23, 2020, 14h (online)**
 
-* Presentation by Om Sharan Salafia entitled _Accretion-to-Jet Energy Conversion Efficiency in Gamma-Ray Burst Central Engines_.
+* Presentation by Om Sharan Salafia (INAF-Brera), entitled _Accretion-to-Jet Energy Conversion Efficiency in Gamma-Ray Burst Central Engines_.
 
 #### **November 16, 2020, 14h (online)**
 
@@ -182,11 +182,11 @@ Some of the speakers of our sessions include:
 
 #### **October 28, 2020, 12h (online)**
 
-* Presentation by Simon Chiche on [_Looking for Ultra-High-Energy Astroparticles in a Radio Haystack_](docs/201028-chiche.pdf).
+* Presentation by Simon Chiche, entitled [_Looking for Ultra-High-Energy Astroparticles in a Radio Haystack_](docs/201028-chiche.pdf).
 
 #### **October 21, 2020, 12h (online)**
 
-* Presentation by Clément Pellouin on [_Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog_](docs/201021-pellouin.pdf).
+* Presentation by Clément Pellouin, entitled [_Searching for Ultra- and Hyper-Luminous X-Ray Sources in the Swift-XRT Catalog_](docs/201021-pellouin.pdf).
 
 #### **October 7, 2020, 12h (online)**
 
@@ -198,11 +198,11 @@ Some of the speakers of our sessions include:
 
 #### **July 1, 2020, 17h30 (online)**
 
-* Presentation by Noémie Globus entitled _The Chiral Puzzle of Life_.
+* Presentation by Noémie Globus (NY University, CCA), entitled _The Chiral Puzzle of Life_.
 
 #### **June 24, 2020, 14h (online)**
 
-* Presentation by Sandro Mereghetti entitled _INTEGRAL Discovery of a Burst from a Magnetar Sheds Light on the Origin of Fast Radio Bursts_.
+* Presentation by Sandro Mereghetti (IASF-Milano), entitled _INTEGRAL Discovery of a Burst from a Magnetar Sheds Light on the Origin of Fast Radio Bursts_.
 
 #### **June 17, 2020, 14h (online)**
 
@@ -224,11 +224,11 @@ Some of the speakers of our sessions include:
 
 #### **May 20, 2020, 15h (online)**
 
-* Presentation by Jim Madsen entitled _Cosmic Ray Research with the IceCube Neutrino Observatory: The Other Cosmic Messengers_.
+* Presentation by Jim Madsen (University of Wisconsin), entitled _Cosmic Ray Research with the IceCube Neutrino Observatory: The Other Cosmic Messengers_.
 
 #### **May 13, 2020, 14h (online)**
 
-* Presentation by Sébastien Guillot entitled _Measuring the Radius of Neutron Stars and Other Results from the NICER Mission_.
+* Presentation by Sébastien Guillot (IRAP), entitled _Measuring the Radius of Neutron Stars and Other Results from the NICER Mission_.
 
 #### **April 29, 2020, 13h30 (online)**
 
