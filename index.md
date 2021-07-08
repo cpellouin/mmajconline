@@ -27,11 +27,8 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **July 8, 2021, 13h30 (online)**
-
-* Presentation by Srija Chakraborty, entitled _Probing supermassive blackhole with LISA (and possibility of EM counterpart observations)_.
-
 #### The Journal Club activities will be on hold in July and August for summer vacation.
+
 
 
 ## Speakers
@@ -70,8 +67,13 @@ Some of the speakers of our sessions include:
 * Filippo Santoliquido (Padova University)
 * Marta Volonteri (IAP)
 
+
+
 ## Past sessions
 
+#### **July 8, 2021, 13h30 (online)**
+
+* Presentation by Srija Chakraborty, entitled _Probing supermassive black holes with LISA (and the possibility of EM counterpart observations)_.
 
 #### **July 1, 2021, 13h30 (online)**
 
