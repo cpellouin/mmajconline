@@ -27,7 +27,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### The Journal Club activities will be on hold in July and August for summer vacation.
+**The Journal Club activities will be on hold in July and August for summer vacation.**
 
 
 
