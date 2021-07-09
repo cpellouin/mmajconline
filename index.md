@@ -78,11 +78,11 @@ Some of the speakers of our sessions include:
 
 #### **July 1, 2021, 13h30 (online)**
 
-* Presentation by Martin Lemoine, entitled _Recent developments on particle acceleration in magnetized turbulence_.
+* Presentation by Martin Lemoine, entitled [_Recent developments on particle acceleration in magnetized turbulence_](docs/210701-lemoine.pdf).
 
 #### **June 24, 2021, 13h30 (online)**
 
-* Presentation by Filippo Santoliquido (Padova University), entitled _The cosmic merger rate density of compact binaries_. See [his slides](docs/210624-santoliquido.pdf).
+* Presentation by Filippo Santoliquido (Padova University), entitled [_The cosmic merger rate density of compact binaries_](docs/210624-santoliquido.pdf).
 
 #### **June 17, 2021, 13h30 (online)**
 
