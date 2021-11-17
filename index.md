@@ -54,6 +54,7 @@ Some of the speakers of our sessions include:
 * Gwenhaël de Wasseige (APC)
 * Irina Dvorkin (IAP)
 * Raphaël Duque (IAP)
+* Tamar Faran (Hebrew University, Jerusalem)
 * Noémie Globus (NY University, CCA)
 * Ben Gompertz (Birmingham University)
 * Ore Gottlieb (Tel Aviv University)
@@ -94,7 +95,7 @@ Some of the speakers of our sessions include:
 
 #### **October 19, 2021, 14h (Salle du Conseil & Online)**
 
-* Presentation by Tamar Faran (ENS/IAP), entitled _The hydrodynamics and breakout of relativistic shock waves_.
+* Presentation by Tamar Faran (Hebrew University, Jerusalem), entitled _The hydrodynamics and breakout of relativistic shock waves_.
 
 #### **October 8, 2021, 14h (Salle du Conseil & Online)**
 
@@ -102,7 +103,7 @@ Some of the speakers of our sessions include:
 
 #### **September 28, 2021, 14h (Salle du Conseil & Online)**
 
-* Paper: [Strokov et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210908154S/abstract), presented by Irina Dvorkin. See [her slides](docs/210928-dvorkin.pdf).
+* Paper: [Strokov et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210908154S/abstract), presented by Irina Dvorkin.
 
 #### **September 21, 2021, 15h (Salle du Conseil & Online)**
 
