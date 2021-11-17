@@ -72,6 +72,18 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **October 8, 2021, 14h (Salle du Conseil & Online)**
+
+* Presentation by Léonard Lehoucq (ENS/IAP), entitled [_Detecting Planetary-mass Primordial Black Holes with Resonant Electromagnetic Gravitational Wave Detectors_](docs/211005-lehoucq.pdf).
+
+#### **September 28, 2021, 14h (Salle du Conseil & Online)**
+
+* Paper: [Strokov et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210908154S/abstract), presented by Irina Dvorkin. See [her slides](docs/210928-dvorkin.pdf).
+
+#### **September 21, 2021, 15h (Salle du Conseil & Online)**
+
+* Paper: [Zhu et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210615781Z/abstract), presented by Clément Pellouin. See [his slides](docs/210921-pellouin.pdf).
+
 #### **July 8, 2021, 13h30 (online)**
 
 * Presentation by Srija Chakraborty (Scuole Normale Superiore), entitled _Probing supermassive black holes with LISA (and the possibility of EM counterpart observations)_.
