@@ -5,11 +5,11 @@ layout: home
 
 ## Welcome to the Multi-Messenger Astronomy Journal Club website
 
-The journal club was formed between groups of the [Astroparticule et Cosmologie laboratory](http://www.apc.univ-paris7.fr/APC_CS/) (APC) and the [Institut d'Astrophysique de Paris](http://www.iap.fr) (IAP).
+The journal club was formed between groups of the [Institut d'Astrophysique de Paris](http://www.iap.fr) (IAP) and the [Astroparticule et Cosmologie laboratory](http://www.apc.univ-paris7.fr/APC_CS/) (APC).
 
 Addresses are:
-* APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet -- 2nd floor)
 * IAP: 98 bis boulevard Arago 75014 Paris
+* APC: 10 rue Alice Domon et Léonie Duquet 75013 Paris (bâtiment Condorcet -- 2nd floor)
 
 ## Staying up to date
 
@@ -17,8 +17,6 @@ To receive information and announcements for future sessions, please [subscribe 
 
 ## Organizing team
 
-* Éric Chassande-Mottin
-* Alexis Coleiro
 * Frédéric Daigne
 * Irina Dvorkin
 * Clément Pellouin
@@ -27,9 +25,17 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-**The Journal Club activities will be on hold in July and August for summer vacation.**
+#### **November 23, 2021, 14h (Salle du Conseil & Online)**
 
+* Paper presentation by Željka Bošnjak (University of Zagreb), TBA.
 
+#### **December 7, 2021, 14h (Salle du Conseil & Online)**
+
+* Group member presentation by Jean-Grégoire Ducoin, TBA.
+
+#### **December 14, 2021, 14h (Salle du Conseil & Online)**
+
+* Presentation by Benjamin Arcier (IRAP), TBA.
 
 ## Speakers
 
@@ -56,11 +62,13 @@ Some of the speakers of our sessions include:
 * Jens-Kristian Krogager (IAP)
 * Jean-Pierre Lasota (IAP)
 * François Larrouturou (IAP)
+* Léonard Lehoucq (ENS/IAP)
 * Martin Lemoine (IAP)
 * Jim Madsen (University of Wisconsin)
 * Sandro Mereghetti (IASF-Milano)
 * Robert Mochkovitch (IAP)
 * Mike Moss (George Washington University)
+* Aleksandra Olejak (Nicolaus Copernicus Astronomical Center)
 * Clément Pellouin (IAP)
 * Julien Peloton (LAL)
 * Cyril Pitrou (IAP)
@@ -71,6 +79,22 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **November 9, 2021, 14h (Salle du Conseil & Online)**
+
+* Presentation by Aleksandra Olejak (Nicolaus Copernicus Astronomical Center), entitled [_The origin of BH-BH mergers: The isolated binary evolution scenario_](docs/211109-olejak.pdf).
+
+#### **November 2, 2021, 14h (Salle du Conseil & Online)**
+
+* Paper: [Gottlieb et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914619G/abstract), presented by Robert Mochkovitch. See [his slides](docs/211102-mochkovitch.pdf). 
+
+#### **October 26, 2021, 14h (Salle du Conseil & Online)**
+
+* Paper: [Kullman et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210902509K/abstract), presented by Frédéric Daigne. 
+
+#### **October 19, 2021, 14h (Salle du Conseil & Online)**
+
+* Presentation by Tamar Faran (ENS/IAP), entitled _The hydrodynamics and breakout of relativistic shock waves_.
 
 #### **October 8, 2021, 14h (Salle du Conseil & Online)**
 
