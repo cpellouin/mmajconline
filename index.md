@@ -25,9 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **November 23, 2021, 14h (Salle du Conseil & Online)**
+#### **November 23, 2021, 14h (Salle de l'Entresol & Online)**
 
-* Paper presentation by Željka Bošnjak (University of Zagreb), TBA.
+* Paper: [Zhang et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...920...55Z/abstract), presented by Željka Bošnjak (University of Zagreb).
 
 #### **December 7, 2021, 14h (Salle du Conseil & Online)**
 
