@@ -25,13 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **November 23, 2021, 14h (Salle de l'Entresol & Online)**
-
-* Paper: [Zhang et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...920...55Z/abstract), presented by Željka Bošnjak (University of Zagreb).
-
 #### **December 7, 2021, 14h (Salle du Conseil & Online)**
 
-* Group member presentation by Jean-Grégoire Ducoin, TBA.
+* Group member presentation by Jean-Grégoire Ducoin, entitled _Multi-messenger astronomy: from the analysis of transient sources of gravitational waves to electromagnetic counterparts searches_.
 
 #### **December 14, 2021, 14h (Salle du Conseil & Online)**
 
@@ -80,6 +76,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **November 23, 2021, 14h (Salle de l'Entresol & Online)**
+
+* Paper: [Zhang et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...920...55Z/abstract), presented by Željka Bošnjak (University of Zagreb).
 
 #### **November 9, 2021, 14h (Salle du Conseil & Online)**
 
