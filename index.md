@@ -25,13 +25,12 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **December 7, 2021, 14h (Salle du Conseil & Online)**
-
-* Group member presentation by Jean-Grégoire Ducoin, entitled _Multi-messenger astronomy: from the analysis of transient sources of gravitational waves to electromagnetic counterparts searches_.
 
 #### **December 14, 2021, 14h (Salle du Conseil & Online)**
 
 * Presentation by Benjamin Arcier (IRAP), TBA.
+
+#### **Christmas Break**
 
 ## Speakers
 
@@ -48,8 +47,9 @@ Some of the speakers of our sessions include:
 * Michel Dennefeld (IAP)
 * Luc Dessart (IAP)
 * Gwenhaël de Wasseige (APC)
-* Irina Dvorkin (IAP)
+* Jean-Grégoire Ducoin (IAP)
 * Raphaël Duque (IAP)
+* Irina Dvorkin (IAP)
 * Tamar Faran (Hebrew University, Jerusalem)
 * Noémie Globus (NY University, CCA)
 * Ben Gompertz (Birmingham University)
@@ -76,6 +76,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **December 7, 2021, 14h (Salle de l'Entresol & Online)**
+
+* Group member presentation by Jean-Grégoire Ducoin, entitled _Multi-messenger astronomy: from the analysis of transient sources of gravitational waves to electromagnetic counterparts searches_.
 
 #### **November 23, 2021, 14h (Salle de l'Entresol & Online)**
 
