@@ -28,7 +28,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **December 14, 2021, 14h (Salle du Conseil & Online)**
 
-* Presentation by Benjamin Arcier (IRAP), TBA.
+* Presentation by Benjamin Arcier (IRAP), entitled _Detection of short high-energy transients in the local universe with SVOM/ECLAIRs and Are binary black hole mergers and long γ-ray bursts drawn from the same black hole population?_.
 
 #### **Christmas Break**
 
