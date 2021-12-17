@@ -25,17 +25,13 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-
-#### **December 14, 2021, 14h (Salle de l'Entresol & Online)**
-
-* Presentation by Benjamin Arcier (IRAP), entitled _Detection of short high-energy transients in the local universe with SVOM/ECLAIRs and Are binary black hole mergers and long γ-ray bursts drawn from the same black hole population?_.
-
-#### **Christmas Break**
+#### **The Journal-Club is on Christmas Break, happy new year!**
 
 ## Speakers
 
 Some of the speakers of our sessions include:
 
+* Benjamin Arcier (IRAP)
 * Željka Bošnjak (University of Zagreb)
 * Matteo Bugli (CEA)
 * Éric Chassande-Mottin (APC)
@@ -76,6 +72,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **December 14, 2021, 14h (Salle de l'Entresol & Online)**
+
+* Presentation by Benjamin Arcier (IRAP), entitled _Detection of short high-energy transients in the local universe with SVOM/ECLAIRs and Are binary black hole mergers and long γ-ray bursts drawn from the same black hole population?_.
 
 #### **December 7, 2021, 14h (Salle de l'Entresol & Online)**
 
