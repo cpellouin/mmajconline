@@ -75,11 +75,11 @@ Some of the speakers of our sessions include:
 
 #### **December 14, 2021, 14h (Salle de l'Entresol & Online)**
 
-* Presentation by Benjamin Arcier (IRAP), entitled _Detection of short high-energy transients in the local universe with SVOM/ECLAIRs and Are binary black hole mergers and long γ-ray bursts drawn from the same black hole population?_.
+* Presentation by Benjamin Arcier (IRAP), entitled [_Detection of short high-energy transients in the local universe with SVOM/ECLAIRs and Are binary black hole mergers and long γ-ray bursts drawn from the same black hole population?_](docs/211214-arcier.pdf).
 
 #### **December 7, 2021, 14h (Salle de l'Entresol & Online)**
 
-* Group member presentation by Jean-Grégoire Ducoin, entitled _Multi-messenger astronomy: from the analysis of transient sources of gravitational waves to electromagnetic counterparts searches_.
+* Group member presentation by Jean-Grégoire Ducoin, entitled [_Multi-messenger astronomy: from the analysis of transient sources of gravitational waves to electromagnetic counterparts searches_](docs/211207-ducoin.pdf).
 
 #### **November 23, 2021, 14h (Salle de l'Entresol & Online)**
 
