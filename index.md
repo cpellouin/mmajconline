@@ -25,7 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **The Journal-Club is on Christmas Break, happy new year!**
+#### **January 20, 2022, 14h (Online)**
+
+* Presentation by Filip Samuelsson (KTH Royal Institute of Technology, Sweden), entitled _Radiation mediated shocks in gamma-ray bursts_.
 
 ## Speakers
 
