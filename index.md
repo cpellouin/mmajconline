@@ -25,9 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **January 20, 2022, 14h (Online)**
+#### **February 3, 2022, 14h (Online)**
 
-* Presentation by Filip Samuelsson (KTH Royal Institute of Technology, Sweden), entitled _Radiation mediated shocks in gamma-ray bursts_.
+* Paper: [Jiang et al. 2021](https://arxiv.org/abs/2201.11633), presented by Irina Dvorkin.
 
 ## Speakers
 
@@ -68,12 +68,17 @@ Some of the speakers of our sessions include:
 * Julien Peloton (LAL)
 * Cyril Pitrou (IAP)
 * Om Sharan Salafia (INAF-Brera)
+* Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
 * Marta Volonteri (IAP)
 
 
 
 ## Past sessions
+
+#### **January 20, 2022, 14h (Online)**
+
+* Presentation by Filip Samuelsson (KTH Royal Institute of Technology, Sweden), entitled _Radiation mediated shocks in gamma-ray bursts_.
 
 #### **December 14, 2021, 14h (Salle de l'Entresol & Online)**
 
